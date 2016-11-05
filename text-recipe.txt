@@ -1,0 +1,7 @@
+total 10
+-rw-r--r-- 1 Joerg 197121 729 Nov  5 21:10 cake-recipe.txt
+-rw-r--r-- 1 Joerg 197121 721 Nov  5 21:10 chili-recipe.txt
+-rw-r--r-- 1 Joerg 197121 352 Nov  5 21:10 frosting-recipe.txt
+-rw-r--r-- 1 Joerg 197121   0 Nov  5 21:12 new
+-rw-r--r-- 1 Joerg 197121  70 Nov  5 21:10 README.md
+-rw-r--r-- 1 Joerg 197121   0 Nov  5 21:13 text-recipe.txt
